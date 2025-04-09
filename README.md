@@ -90,11 +90,9 @@ This project is a full-featured Internet Banking System that enables secure onli
    │   └── internetbanking_db.sql  # MySQL database schema and sample data
    ├── dist/                  # Distribution files
    ├── staff/                 # Staff-related functionality
-   ├── 01 LOGIN DETAILS & PROJECT INFO....  # Login credentials and project information
    ├── docker-compose.yml     # Docker Compose configuration
    ├── Dockerfile             # Docker configuration for the application
    ├── index.php              # Entry point of the application
-   └── mysql                  # MySQL configuration or utility
    ```
 
 ## Troubleshooting
