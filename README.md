@@ -29,7 +29,7 @@ This project is a full-featured Internet Banking System that enables secure onli
 2. Configure the database:
    - Create a MySQL database named `internetbanking`.
    - Import the provided `internetbanking_db.sql` file using a MySQL client or command line.
-   - Update database credentials in the relevant PHP config file (usually in `includes/db.php` or similar).
+   - Update database credentials in the relevant PHP config file.
 
 3. (Optional) To run locally without Docker:
    - Use software like **XAMPP** or **WAMP**.
