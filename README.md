@@ -114,5 +114,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-* Developed by [Ryan, Shyama, Samantha, Gauri]
+* Developed by [Project Contributors]
 * Technologies: PHP, MySQL, Docker, HTML/CSS/JS
